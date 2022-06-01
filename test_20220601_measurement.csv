@@ -1,0 +1,11 @@
+Instrument Height,Acceptable Variation
+101.0,20.0
+
+User Inputs,Calculated Result
+101.0,0.0
+102.0,-1.0
+99.8,1.2
+97.2,3.8
+Level Invalid: 34.3,Level Invalid: 34.3
+Input Invalid: abc,Input Invalid: abc
+Input Invalid: oops,Input Invalid: oops
